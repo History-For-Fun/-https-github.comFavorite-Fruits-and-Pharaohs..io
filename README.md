@@ -55,8 +55,8 @@
           float: left; color: black;
                 width: 22%;
                 margin-left: 10; 
-                margin-top: -3;
-                border: 10px ridge rgb(255, 255, 255);
+                margin-top: -9;
+                border: 11px ridge rgb(255, 255, 255);
                 background: black;
                 color:white;    
         } 
@@ -70,12 +70,80 @@
         img:hover {
              border: 10px ridge:"pink";
         }
+        .preference {
+         float: left; color: black;
+                width: 95%;
+                margin-left: 10; 
+                margin-top: -9;
+                border: 11px ridge rgb(255, 255, 255);
+                background: White;
+                color:red;       
+        }
+        .dod {
+              font-size:124px;
+        text-align:center;
+        font-family:impact;
+        letter-spacing:29px;
+        color:rgb(255, 0, 0);
+        }
+        .dood {
+         font-size:32px;
+        text-align:center;
+        font-family:impact;
+        letter-spacing:3px;
+        color:rgb(212, 153, 51);    
+        }
+        body {
+               background-color:rgb(0, 0, 0);
+    background-image:url("https://upload.wikimedia.org/wikipedia/commons/8/89/Xi_Jinping_2019_%2849060546152%29_2.jpg");
+    background-attachment:fixed;
+    background-size:469px;
+        }
         </style>
         <meta charset="utf-8">
     </head>
     <body>
-  <h1 class="china">China</h1>
- <img crossorigin="anonymous" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/800px-Flag_of_the_People%27s_Republic_of_China.svg.png" class="svg" alt="Flag of China" width="110" height="59" style="15"> 
+    <h1 class="dod">China</h1>
+    <h1 class="dood"> The country with over 500 yeres of</h1><h1 style="font-size:46px;
+        text-align:center;
+        font-family:fantasy;
+        letter-spacing:19px;
+        color:rgb(255, 145, 145); "> Good History</h1>
+   <div class="preference">
+    <label for="chees">Do you like Comminusim?</label>
+    <input type="checkbox" name="cheese" id="cheese">
+</div>
+
+<div class="preference">
+    <label for="peas">Do you like China?</label>
+    <input type="checkbox" name="peas" id="peas">
+</div>
+  <div class="preference">
+    <label for="chees">Can you say Communusim is good?</label>
+    <input type="checkbox" name="cheese" id="cheese">
+</div>
+
+<div class="preference">
+    <label for="peas">Do you like Xi Jimping?</label>
+    <input type="checkbox" name="peas" id="peas">
+</div>
+<label for="dino-select">Choose a you best province:</label>
+<select id="dino-select">
+    <optgroup label="">
+        <option>	Beijing Municipality</option>
+        <option>	Anhui Province</option>
+        <option>	Fujian Province[e]</option>
+    </optgroup>
+    <optgroup label="">
+        <option>	Guangdong Province[g]</option>
+        <option>	Taiwan Province[l]</option>
+        <option>Tibet Autonomous Region</option>       
+         <option>Guangxi Zhuang Autonomous Region</option>       
+    </optgroup>
+</select>
+
+ <h1 class="china">China</h1> 
+ <img crossorigin="anonymous" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/800px-Flag_of_the_People%27s_Republic_of_China.svg.png" class="svg" alt="Flag of China" width="110" height="-6" style="15"> 
   <div class="factor">
   <p>China (<a href="https://en.wikipedia.org/wiki/Simplified_Chinese_characters">Chinese</a>: 中国; <a href="https://en.wikipedia.org/wiki/Pinyin">pinyin</a>: Zhōngguó), officially the People's Republic of China (PRC; Chinese: 中华人民共和国; pinyin: Zhōnghuá Rénmín Gònghéguó), is a country in <a href="https://en.wikipedia.org/wiki/East_Asia">East Asia</a>. It is the world's <a href="https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population">most populous country</a> with a <a href="https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population">population</a> exceeding 1.4 billion people.[i] China spans five geographical <a href="https://en.wikipedia.org/wiki/Time_zone">time zones</a> and borders fourteen countries by land, <a href="https://en.wikipedia.org/wiki/List_of_countries_and_territories_by_land_borders">the most of any country</a> in the world, tied with <a href="https://en.wikipedia.org/wiki/Russia">Russia</a>. China also has a narrow maritime boundary with the disputed Taiwan.[l][m] Covering an area of approximately 9.6 million square kilometers (3,700,000 sq mi), it is the world's third or fourth largest country.[n] The country consists of 22 provinces,[l] five autonomous regions, four municipalities, and two Special Administrative Regions (Hong Kong and Macau). The national capital is Beijing, and the most populous city and financial center is Shanghai.</p><p>Modern Chinese trace their origins to a cradle of civilization in the fertile basin of the Yellow River in the North China Plain. The semi-legendary Xia dynasty in the 21st century BCE and the well-attested Shang and Zhou dynasties developed a bureaucratic political system to serve hereditary monarchies, or dynasties. Chinese writing, Chinese classic literature, and the Hundred Schools of Thought emerged during this period and influenced China and its neighbors for centuries to come. In the third century BCE, Qin's wars of unification created the first Chinese empire, the short-lived Qin dynasty. The Qin was followed by the more stable Han dynasty (206 BCE – 220 CE), which established a model for nearly two millennia in which the Chinese empire was one of the world's foremost economic powers. The empire expanded, fractured and re-unified, was conquered and reestablished, absorbed foreign religions and ideas, and made world-leading scientific advances, such as the Four Great Inventions: gunpowder, paper, the compass, and printing. After centuries of disunion following the fall of the Han, the Sui (581–618) and Tang (618–907) dynasties reunified the empire. The multi-ethnic Tang welcomed foreign trade and culture that came over the Silk Road and adapted Buddhism to Chinese needs. The early modern Song dynasty (960–1279) became increasingly urban and commercial. The civilian scholar-official or literati used the examination system and  the doctrines of Neo-Confucianism to replace the military aristocrats of earlier dynasties. The Mongol invasion established the Yuan dynasty in 1279, but the Ming dynasty (1368–1644) re-established Han Chinese control. The Manchu-led Qing dynasty nearly doubled the empire's territory and established a multi-ethnic state that was the basis of the modern Chinese nation, but suffered heavy losses to foreign imperialism in the 19th century.
 The Chinese monarchy collapsed in 1912 with the Xinhai Revolution, when the Republic of China (ROC) replaced the Qing dynasty. In its early years of the Republic, the country became unstable known as the Warlord Era before reunifying the nation in 1928 under the nationalist memshala while the alliance between the Kuomintang (KMT) and the Chinese Communist Party (CCP) had fallen apart that led to a civil war that lasted two decades. Japan invaded China in 1937, starting the Second Sino-Japanese War and temporarily halting the civil war. The surrender and expulsion of Japanese forces from China in 1945 left a power vacuum in the country, which led to renewed fighting between the CCP and the Kuomintang. The civil war ended in 1949[o] with the division of Chinese territory; the CCP established the People's Republic of China on the mainland while the Kuomintang-led ROC government retreated to the island of Taiwan.[p] Both claimed to be the sole legitimate government of China, although the United Nations has recognized the PRC as the sole representation since 1971. From 1959 to 1961, the PRC implemented an economic and social campaign called the Great Leap Forward that resulted in an estimated 15 to 55 million deaths, mostly through starvation. China conducted a series of economic reforms since 1978, and entered into the World Trade Organization in 2001.
@@ -101,7 +169,7 @@ China is currently governed as a unitary one-party socialist republic by the CCP
 <img crossorigin="anonymous" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/800px-Flag_of_the_People%27s_Republic_of_China.svg.png" class="svg" alt="Flag of China" width="127" height="70" style="15"> 
 <p>Flag Of China</p>
 <h1>President of The Peoples Repablic Of China</h1>
-<div class="mw-mmv-image"><img crossorigin="anonymous" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Xi_Jinping_2019.jpg" class="jpg" alt="Xi Jinping 2019.jpg" width="112" height="89"></div>
+<a href="https://en.wikipedia.org/wiki/Xi_Jinping"><div class="mw-mmv-image"><img crossorigin="anonymous" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Xi_Jinping_2019.jpg" class="jpg" alt="Xi Jinping 2019.jpg" width="112" height="89"></div></a>
 <h2 class="china">Xi Jinping</h2>
 <a href="https://en.wikipedia.org/wiki/Pinyin">pinyin</a>:
 <div class="box"><p>The son of Chinese Communist veteran <a href="https://en.wikipedia.org/wiki/Xi_Zhongxun">Xi Zhongxun</a>, he was exiled to rural <a>Yanchuan County</a> as a teenager following his father's purge during the Cultural Revolution, and lived in a yaodong in the village of Liangjiahe, where he joined the CCP and worked as the local party secretary. After studying chemical engineering at Tsinghua University as a worker-peasant-soldier student, Xi rose through the ranks politically in China's coastal provinces. Xi was governor of Fujian from 1999 to 2002, before becoming governor and party secretary of neighboring Zhejiang from 2002 to 2007. Following dismissal of the party secretary of Shanghai, Chen Liangyu, Xi was transferred to replace him for a brief period in 2007. He subsequently joined the Politburo Standing Committee (PSC) of the CCP the same year and served as first secretary of the Central Secretariat in October 2007. In 2008, he was designated as Hu Jintao's presumed successor as paramount leader; to that end, Xi was appointed vice president of the PRC and vice chairman of the CMC. He officially received the title of leadership core from the CCP in 2016.</p><p>Xi is the first CCP general secretary born after the establishment of the PRC. Since assuming power, Xi has introduced far-ranging measures to enforce party discipline and to impose internal unity. His anti-corruption campaign led to the downfall of prominent incumbent and retired CCP officials, including a former member of the PSC. He has also enacted or promoted a more aggressive foreign policy, particularly with regard to China's relations with the U.S., the nine-dash line in the South China Sea, the Sino-Indian border dispute, and the political status of Taiwan. He has sought to expand China's African and Eurasian influence through the Belt and Road Initiative. Economically, he has expanded support for state-owned enterprises (SOEs), advanced military-civil fusion, overseen targeted poverty alleviation programs, and has attempted to reform the property sector. He has also promoted "common prosperity", a series of policies designed with stated goal to increase equality, and used the term to justify a broad crackdown and major slew of regulations against the tech and tutoring sectors in 2021. He met with Taiwanese president Ma Ying-jeou in 2015, the first time PRC and Republic of China leaders met, though relations deteriorated after the Democratic Progressive Party (DPP) won the presidential elections in 2016. He has responded to the COVID-19 pandemic in mainland China with a zero-COVID approach and has overseen the passage of a national security law in Hong Kong, dramatically increasing the clampdown on the opposition in the city.</p></div>
@@ -111,8 +179,56 @@ China is currently governed as a unitary one-party socialist republic by the CCP
     <li><strong>Birth place</strong>: Fuping County, Shaanxi Province, China (some sources say Beijing)</li>
     <li><strong>Birth name</strong>: Xi Jinping</li>
     <li><strong>Father</strong>: Xi Zhongxun, revolutionary and vice premier</li>
-    Mother: Qi Xin
+    <li><strong>Mother</strong>: Qi Xin</li>
+    <li>Marriages: Peng Liyuan (1987-present); Ke Lingling (divorced)</li>
 </ol>
 </div>
+ 
+<BUTTON
+button class="favorite styled"
+        type="button">
+    lEARN
+</button>
+
+<label for="name">Wate do you think (4 to 8 characters):</label>
+
+<input type="china" id="name" name="name" required
+
+       minlength="4" maxlength="192" size="10">
+      <label for="file">File progress:</label>
+
+<progress id="file" max="100" value="5"> 70% </progress>
+<fieldset>
+    <legend>Choose your favorite Municipality</legend>
+
+    <input type="radio" id="kraken" name="monster">
+    <label for="kraken">Beijing Municipality</label><br/>
+
+    <input type="radio" id="sasquatch" name="monster">
+    <label for="sasquatch">	Chongqing Municipality</label><br/>
+
+    <input type="radio" id="mothman" name="monster">
+    <label for="mothman">Anhui Province</label>
+</fieldset>
+<form action="" method="get" class="form-example">
+  <div class="form-example">
+    <label for="name">Enter your name: </label>
+    <input type="text" name="name" id="name" required>
+  </div>
+  <div class="form-example">
+    <label for="email">Enter your email: </label>
+    <input type="email" name="email" id="email" required>
+  </div>
+  <div class="form-example">
+    <input type="submit" value="Subscribe!">
+  </div>
+</form>
+<div id="example-paragraphs">
+    <p>Fernstraßenbauprivatfinanzierungsgesetz</p>
+    <p>Fernstraßen<wbr>bau<wbr>privat<wbr>finanzierungs<wbr>gesetz</p>
+    <p>Fernstraßen&shy;bau&shy;privat&shy;finanzierungs&shy;gesetz</p>
+</div>
+
+ 
     </body>
 </html>
