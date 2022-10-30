@@ -1,3 +1,4 @@
+/*
 // var favotiteanimals  = [the list is here];
 // My favotiteanimals are "panda", "british bull dogs", "cat", "monkey","lion", "tiger" 
 var favotiteanimals = ["panda", "british bull dogs", "cat", "monkey","lion", "tiger" ];
@@ -11,3 +12,6 @@ fill(255, 0, 0);
       text(favotiteanimals[favotite_animals_num], 10,           30+favotite_animals_num*30);
       favotite_animals_num++;
    }
+
+
+*/
