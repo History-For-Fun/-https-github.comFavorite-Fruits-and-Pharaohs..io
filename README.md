@@ -1,26 +1,13 @@
-// This are the cords for the pharaohs 
-var favoritepharaohs = ["Hatshepsut", "Rameses II", "Menes"];
-
-// the color forth the folowing cords
+// var favotiteanimals  = [the list is here];
+// My favotiteanimals are "panda", "british bull dogs", "cat", "monkey","lion", "tiger" 
+var favotiteanimals = ["panda", "british bull dogs", "cat", "monkey","lion", "tiger" ];
+// the color red
 fill(255, 0, 0);
 
-// the text for the pharaohs
-text(favoritepharaohs[0], 10,30);
-text(favoritepharaohs[1], 10, 60);
-text(favoritepharaohs[2], 10, 90);
-text("My top" + favorite pharaohs.length +  "favorite pharaohs", 10, 10);
 
-var x = 138;
-var y = 123;
-var yx = 153;
-// the text for the fruits 
-var favoritefruits = ["apple", "pear", "pineaple"];
-text(favoritefruits[0], 10,x);
-text(favoritefruits[1], 10,y);
-text(favoritefruits[2], 10,yx);
-
-//the color for the text
-fill(255, 0, 0);
-
-// the text
-text("My top" + "favorite fruits ", 12, 111);
+ var favotite_animals_num = 0;
+// the loop 
+  while (favotite_animals_num  < favotiteanimals.length){
+      text(favotiteanimals[favotite_animals_num], 10,           30+favotite_animals_num*30);
+      favotite_animals_num++;
+   }
